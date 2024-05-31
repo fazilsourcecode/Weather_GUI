@@ -1,9 +1,9 @@
-
-
 # Weather App
 
 ## Overview
 The Weather App is a simple Java Swing application that allows users to check the weather for a specific location.
+
+![Demo](demo.jpg)
 
 ## Features
 - Displays current weather information for a given location.
@@ -37,7 +37,3 @@ Contributions are welcome! If you find any bugs or have suggestions for improvem
 
 ## License
 This project is licensed under the [MIT License](LICENSE).
-
----
-
-Feel free to customize this template according to your project's specific details and requirements!
